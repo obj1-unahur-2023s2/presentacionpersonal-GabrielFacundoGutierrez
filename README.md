@@ -1,38 +1,13 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
 Bienvenidos a
-# Programación con objetos I
+# La Presentacion De Gabriel Gutierrez
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola a todos! Mi nombre es Gabriel Facundo Gutierrez,generalmente todos me dicen facundo o facu, tengo 29 años,en este momento trabajo en una talabarteria que es el negocio al que se dedica mi familia por el lado de mi viejo .
+Comence a estudiar la tecnicatura en programacion en el año 2022 asi que este es mi segundo año siendo parte de la universidad.
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
-
-### Presentacion Personal
-
-Me llamo ...
-
-Me gusta ...
-
-Me dedico a / Trabajo de ...
-
-Les dejo una imagen mía 
-
-![subir archivo de imagen](imagen.jpg)
+## SOBRE MI:
+- Vivo en hurlingham practicamente desde que naci
+- Me guta bastante el ejercicio y los deportes aunque ahora por un tema de horarios solo voy al gym y salgo a correr
+- Soy una persona muy activa por lo que casi siempre estoy haciendo algo
+- Me gusta bastante mi trabajo actual y estoy muy comodo con el aunque en un futuro me gustaria dedicarme a la programacion
